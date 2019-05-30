@@ -1,2 +1,2 @@
-# SE
-Self bot by Eric
+# selfbot
+Line bot
